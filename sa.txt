@@ -74,3 +74,4 @@ printf("string is not palindrome\n");
 else
 printf("string is palindrome\n");
 }
+hi
